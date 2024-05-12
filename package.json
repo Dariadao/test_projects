@@ -1,0 +1,26 @@
+{
+  "name": "test_projects",
+  "version": "1.0.0",
+  "description": "test projects node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dariadao/test_projects.git"
+  },
+  "keywords": [
+    "node.js",
+    "npm"
+  ],
+  "author": "Daria Zakharova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dariadao/test_projects/issues"
+  },
+  "homepage": "https://github.com/Dariadao/test_projects#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
